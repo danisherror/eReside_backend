@@ -1,0 +1,36 @@
+{
+  "name": "major-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arpit123139/Major-Project.git"
+  },
+  "author": "Team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arpit123139/Major-Project/issues"
+  },
+  "homepage": "https://github.com/Arpit123139/Major-Project#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.4.4",
+    "email-templates": "^11.1.1",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
+    "mailgen": "^2.0.28",
+    "mailtrap": "^3.3.0",
+    "mongoose": "^8.1.3",
+    "nodemailer": "^6.9.13",
+    "nodemon": "^3.1.0",
+    "pug": "^3.0.2",
+    "validator": "^13.11.0"
+  }
+}
